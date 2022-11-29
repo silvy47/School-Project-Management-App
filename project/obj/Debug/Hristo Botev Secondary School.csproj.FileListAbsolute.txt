@@ -1,0 +1,61 @@
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\Hristo Botev Secondary School.exe.config
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\Hristo Botev Secondary School.exe
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\Hristo Botev Secondary School.pdb
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.csprojResolveAssemblyReference.cache
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Properties.Resources.resources
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.csproj.GenerateResource.Cache
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.exe
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.pdb
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\MetroFramework.Design.dll
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\MetroFramework.dll
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\MetroFramework.Fonts.dll
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.MainForm.resources
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Subjects.resources
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.GroupTypes.resources
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Students.resources
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Teachers.resources
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Certificates.resources
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Applications.resources
+D:\сиси\Проектиране на ИС\курсов проект\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Groups.resources
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\Hristo Botev Secondary School.exe.config
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\Hristo Botev Secondary School.exe
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\Hristo Botev Secondary School.pdb
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\MetroFramework.Design.dll
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\MetroFramework.dll
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.csproj.AssemblyReference.cache
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Applications.resources
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Certificates.resources
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.MainForm.resources
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Groups.resources
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.GroupTypes.resources
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Properties.Resources.resources
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Students.resources
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Subjects.resources
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Teachers.resources
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.csproj.GenerateResource.cache
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.csproj.CoreCompileInputs.cache
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.csproj.CopyComplete
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.exe
+C:\Users\Silvy Raicheva\Downloads\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.pdb
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\Hristo Botev Secondary School.exe.config
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\Hristo Botev Secondary School.exe
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\Hristo Botev Secondary School.pdb
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\MetroFramework.Design.dll
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\MetroFramework.dll
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\bin\Debug\MetroFramework.Fonts.dll
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.csproj.AssemblyReference.cache
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Applications.resources
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Certificates.resources
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.MainForm.resources
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Groups.resources
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.GroupTypes.resources
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Properties.Resources.resources
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Students.resources
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Subjects.resources
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo_Botev_Secondary_School.Teachers.resources
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.csproj.GenerateResource.cache
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.csproj.CoreCompileInputs.cache
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.csproj.CopyComplete
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.exe
+D:\ue varna\PIS\Hristo Botev Secondary School\Hristo Botev Secondary School\obj\Debug\Hristo Botev Secondary School.pdb
